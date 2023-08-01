@@ -96,3 +96,4 @@ Thumbs.db
 .pypirc
 docs
 *.sqlite3
+.vscode
